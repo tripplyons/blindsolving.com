@@ -1,0 +1,11 @@
+{
+	"siteName": "Blindsolving",
+	"description": "All about solving Rubik's cubes and similar puzzles blindfolded.",
+    "links": [
+        {
+            "href": "https://github.com/tripplyons/blindsolving.com",
+            "title": "GitHub"
+        }
+    ],
+    "root": ""
+}

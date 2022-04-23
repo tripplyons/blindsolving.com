@@ -1,0 +1,14 @@
+{
+    "name": "blindsolving.com",
+    "version": "1.0.0",
+    "description": "blindsolving.com",
+    "main": "index.js",
+    "scripts": {
+        "build": "static-markdown"
+    },
+    "author": "",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "static-markdown": "1.2.1"
+    }
+}

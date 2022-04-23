@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ metadata.title }}</title>
+	<meta name="description" content="{{ constants.description }}">
+
+	<link rel="stylesheet" href="{{ root }}/normalize.css">
+	<link rel="stylesheet" href="{{ root }}/github-markdown.css">
+	<link rel="stylesheet" href="{{ root }}/github-markdown-fullscreen.css">
+    <!-- blank favicon -->
+    <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABmJLR0T///////8JWPfcAAAACXBIWXMAAABIAAAASABGyWs+AAAAF0lEQVRIx2NgGAWjYBSMglEwCkbBSAcACBAAAeaR9cIAAAAASUVORK5CYII=">
+</head>
+
+<body>
+	<article class="markdown-body">
+		<div>
+			<div style="float:left;">
+				<b><a href="{{ root }}/">{{ constants.siteName }}</a></b>
+			</div>
+			<div style="float:right">
+				<b>Links</b>
+				{{#each constants.links}}
+				- <a href="{{ this.href }}">{{ this.title }}</a>
+				{{/each}}
+			</div>
+		</div>
+		<br>
+		<hr>
+		{{{ article }}}
+	</article>
+</body>
+
+</html>
