@@ -19,7 +19,7 @@ This one is pretty short, but it's a good introduction to the Old Pochmann Metho
 
 ## Resources
 
-### Letter Pairs Lists
+### Letter Pairs
 
 - [A good Google Sheet for letter pairs](https://docs.google.com/spreadsheets/d/1Fi4xgUz5b23UXMlHq7Tt5C8Ak8-U3XdbeQ9Anw68BQc/edit#gid=1693629958)
 - [CoLPI](https://bestsiteever.ru/colpi/)
