@@ -5,6 +5,8 @@
 
 ## How do I get started?
 
+The easiest way to get your first successful solve is with the Old Pochmann Method.
+
 ### The tutorial I learned from
 
 This one is great because you really get to understand the Old Pochmann Method.
@@ -25,3 +27,8 @@ This one is pretty short, but it's a good introduction to the Old Pochmann Metho
 - [CoLPI](https://bestsiteever.ru/colpi/)
 - [List of Letter Pairs (speedsolving.com wiki)](https://www.speedsolving.com/wiki/index.php/List_of_letter_pairs)
 - [List of Pokemon by name](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_name)
+
+### 3 Style Algorithms
+
+- [bldbase.net](https://bldbase.net/index.html)
+- [bestsiteever.ru/tables](https://bestsiteever.ru/tables/)
